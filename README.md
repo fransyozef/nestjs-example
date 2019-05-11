@@ -14,6 +14,7 @@ You first need to install NodeJS. Then open install NestJS from your terminal:
 
 ## Installing and starting the NestJS application
 First install the Node packages : ``` $ npm i ```
+
 Now you can start the application : : ``` $ npm start ```
 
 The application is served on http://localhost:3000/
