@@ -20,6 +20,7 @@ The application is served on http://localhost:3000/
 
 ## Follow me on
 Medium: https://medium.com/@fransyozef/
+
 Instagam: http://instagram.com/thehangrycoder/
 
 
