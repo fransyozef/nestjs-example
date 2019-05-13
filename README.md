@@ -19,10 +19,18 @@ Now you can start the application : : ``` $ npm start ```
 
 The application is served on http://localhost:3000/
 
-## Follow me on
-Medium: https://medium.com/@fransyozef/
+## That's all folks
+Well that's it for now. You can find me on linkedIn : https://www.linkedin.com/in/fransjoleihitu/
 
-Instagam: http://instagram.com/thehangrycoder/
+Also read my articles on Medium and clap me :) : https://medium.com/@fransyozef
+
+And checkout out my Instagram page: https://www.instagram.com/thehangrycoder/
+
+If you have any questions/suggestions please don't hessitate.
+
+Amatoooooo
+
+Fransjo Leihitu
 
 
 License
